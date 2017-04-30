@@ -1,3 +1,5 @@
+A fork of the PureImage library, adding PutImage function
+
 PureImage
 ==============
 
